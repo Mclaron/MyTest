@@ -1,5 +1,5 @@
 platform:ios,'8.0'
-target 'TEST' do
+target 'BRPickerViewDemo' do
 pod 'AFNetworking'
 end 
 
